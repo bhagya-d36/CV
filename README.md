@@ -1,1 +1,1 @@
-# This repository contains my **Curriculum Vitae (CV)**.
+This repository contains my **Curriculum Vitae (CV)**.
